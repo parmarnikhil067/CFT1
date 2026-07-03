@@ -1,1 +1,1 @@
-This is simple project
+This is simple project and basic git command used
