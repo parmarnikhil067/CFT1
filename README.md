@@ -1,1 +1,1 @@
-This is simple project and basic git command used
+This is simple project and basic git command used and first time used git clone command
